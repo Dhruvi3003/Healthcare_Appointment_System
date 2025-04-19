@@ -55,30 +55,6 @@ theracis/
 └── README.md          # Project documentation  
 ```  
 
----
-
-## 🚀 Setup & Installation  
-1. **Clone the repository**:  
-   ```bash  
-   git clone https://dhruvi3003/theracis.git  
-   cd theracis  
-   ```  
-
-2. **Install dependencies**:  
-   ```bash  
-   npm install  # For Node.js backend  
-   ```  
-
-3. **Configure MySQL**:  
-   - Update database credentials in `backend/config/db.js`.  
-   - Run SQL scripts to create tables.  
-
-4. **Start the server**:  
-   ```bash  
-   npm start  # Runs on http://localhost:3000  
-   ```  
-
----
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
